@@ -2,7 +2,7 @@
 
 My name is Melissa Ryan and I am a full stack software engineer living in Houston, Texas specializing in JavaScript, HTML, and CSS. I am currently looking for full-stack software engineering and/or front-end development opportunities in the tech industry.
 
-[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissaryandigital)](https://github.com/melissaryandigital/github-readme-stats)
+[![Melissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissaryandigital&theme=merko&show_icons=true)]
 
 
 <!--
